@@ -1,16 +1,19 @@
-### Hi there 👋
+# ⚡ Eduardo Assunção
 
-<!--
-**cunhaedu/cunhaedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** [eKaizen](https://www.gestaokaizen.com.br/).
 
-Here are some ideas to get you started:
+![Eduardo Assunção GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I like to do:
+
+- 💻 Applications
+- 🎨 Design
+- 📕 Read books
+
+About me:
+
+- 💼 I am currently working at [eKaizen](https://www.gestaokaizen.com.br/) as a backend developer
+- 🌱 I'm currently learning TypeORM, Angular and NextJS
+- 🎓 I'm currently studying programming at IFSP
+- 💬 Ask me about anything, but know that I'm passionate about technology
+- 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/eduassuncao/), [Behance](https://www.behance.net/edu_assuncao), [E-mail](cunhaeduardo1231@gmail.com)
