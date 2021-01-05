@@ -2,8 +2,6 @@
 
 **Backend Developer** [eKaizen](https://www.gestaokaizen.com.br/).
 
-![Eduardo Assunção GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell&layout=compact)
-
 Things I like to do:
 
 - 💻 Applications
@@ -17,3 +15,5 @@ About me:
 - 🎓 I'm currently studying programming at IFSP
 - 💬 Ask me about anything, but know that I'm passionate about technology
 - 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/eduassuncao/), [Behance](https://www.behance.net/edu_assuncao), [E-mail](cunhaeduardo1231@gmail.com)
+
+![Eduardo Assunção GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell&layout=compact)
