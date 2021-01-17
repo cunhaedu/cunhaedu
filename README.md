@@ -1,6 +1,6 @@
 # ⚡ Eduardo Assunção
 
-**Backend Developer** [eKaizen](https://www.gestaokaizen.com.br/).
+**Backend Developer at** [eKaizen](https://www.gestaokaizen.com.br/).
 
 Things I like to do:
 
