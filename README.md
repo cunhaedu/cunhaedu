@@ -1,4 +1,4 @@
-# ⚡ Eduardo Assunção
+# Eduardo Assunção
 
 **Backend Developer at** [eKaizen](https://www.gestaokaizen.com.br/).
 
