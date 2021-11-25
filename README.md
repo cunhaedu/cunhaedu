@@ -1,3 +1,4 @@
+Hi 👋, I'm
 # Eduardo Assunção
 
 **Backend Developer at** [eKaizen](https://web.ekaizen.digital/).
@@ -11,7 +12,7 @@ Things I like to do:
 About me:
 
 - 💼 I am currently working at [eKaizen](https://www.linkedin.com/company/e-kaizen/) as a backend developer
-- 🌱 I'm currently learning TypeORM, Angular and NextJS
+- 🌱 I'm currently learning [Docker](https://www.docker.com), devops concepts and advanced topics  as event streaming with [Kafka](https://kafka.apache.org)
 - 💬 Ask me about anything, but know that I'm passionate about technology and design
 - 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/eduassuncao/), [Behance](https://www.behance.net/edu_assuncao), [E-mail](cunhaeduardo1231@gmail.com)
 
