@@ -19,4 +19,4 @@ About me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduassuncao/)](https://www.linkedin.com/in/eduassuncao/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cunhaeduardo1231@gmail.com)](mailto:cunhaeduardo1231@gmail.com)
 
-![Eduardo Assunção GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell&layout=compact)
+![Eduardo Assunção GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell,html,css&layout=compact&langs_count=6)
