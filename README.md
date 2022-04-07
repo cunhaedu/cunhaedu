@@ -6,14 +6,13 @@ Hi 👋, I'm
 Things I like to do:
 
 - 💻 Web applications
-- 🎨 Design
+- 🪙 Decentralized applications (Dapps)
 - 📕 Read books and mangas
 
 About me:
 
 - 💼 I am currently working at [eKaizen](https://www.linkedin.com/company/e-kaizen/) as a backend developer
-- 🌱 I'm currently learning [Docker](https://www.docker.com), devops concepts and advanced topics  as event streaming with [Kafka](https://kafka.apache.org)
-- 💬 Ask me about anything, but know that I'm passionate about technology and design
+- 🌱 I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/), [GraphQL](https://graphql.org/) and advanced topics  such as event streaming with [Kafka](https://kafka.apache.org)
 - 📫 How to contact me:
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduassuncao/)](https://www.linkedin.com/in/eduassuncao/)
