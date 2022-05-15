@@ -6,11 +6,11 @@ Hi 👋, I'm
 * 🌍  I'm based in Brazil
 * 🧠  I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/) and [Kafka](https://kafka.apache.org)
 * 📫  You can contact me at [cunhaeduardo1231@gmail.com](mailto:cunhaeduardo1231@gmail.com)
-* 🤝  I'm open to collaborating on projects about web3
+* 🤝  I'm open to collaborating on web3 projects
 
 ### Socials
 
-<p align="left">
+<div style="display:flex;gap: 5px;align-items: center;margin-bottom: 5px">
   <a href="https://www.github.com/cunhaedu" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
@@ -25,7 +25,7 @@ Hi 👋, I'm
       height="32"
     />
   </a>
-</p>
+</div>
 
 ### Badges
 
@@ -38,9 +38,9 @@ Hi 👋, I'm
 
 ### Skills
 
-<p align="left">
+<div style="display:flex;gap: 5px;align-items: center;margin-bottom: 5px">
   <!--   Languages  -->
-  <a style="padding-right: 5px" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       width="36"
@@ -207,4 +207,4 @@ Hi 👋, I'm
       alt="Alchemy"
     />
   </a>
-</p>
+</div>
