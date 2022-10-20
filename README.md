@@ -4,9 +4,9 @@ Hi 👋, I'm
 **Backend Developer at** [eKaizen](https://web.ekaizen.digital/).
 
 * 🌍  I'm based in Brazil
-* 🧠  I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/) and [Kafka](https://kafka.apache.org)
+* 🧠  I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/) and [Go](https://go.dev/)
 * 📫  You can contact me at [cunhaeduardo1231@gmail.com](mailto:cunhaeduardo1231@gmail.com)
-* 🤝  I'm open to collaborating on web3 projects
+* 🤝  I'm open to collaborating on web and web3 projects
 
 ### Socials
 
