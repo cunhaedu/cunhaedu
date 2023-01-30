@@ -1,7 +1,7 @@
 Hi 👋, I'm
 # Eduardo Assunção
 
-**Backend Developer at** [eKaizen](https://web.ekaizen.digital/).
+**Backend Developer at** [eKaizen](https://ekaizen.digital/).
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/) and [Go](https://go.dev/)
