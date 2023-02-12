@@ -4,7 +4,7 @@ Hi 👋, I'm
 **Backend Developer at** [eKaizen](https://ekaizen.digital/).
 
 * 🌍  I'm based in Brazil
-* 🧠  I'm currently learning [Elixir](https://elixir-lang.org/), [Solidity](https://docs.soliditylang.org/) and [Go](https://go.dev/)
+* 🧠  I'm currently learning [Go](https://go.dev/), [AWS](aws.amazon.com/) and system design
 * 📫  You can contact me at [cunhaeduardo1231@gmail.com](mailto:cunhaeduardo1231@gmail.com)
 * 🤝  I'm open to collaborating on web and web3 projects
 
@@ -38,7 +38,7 @@ Hi 👋, I'm
 
 ### Skills
 
-<div style="display:flex;gap: 5px;align-items: center;margin-bottom: 5px">
+<div style="display:flex;gap: 10px;align-items: center;margin-bottom: 5px">
   <!--   Languages  -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -152,15 +152,6 @@ Hi 👋, I'm
   </a>
 
   <!--   Web3-frameworks  -->
-  
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg"
-      width="36"
-      height="36"
-      alt="MetaMask"
-    />
-  </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg"
@@ -175,36 +166,6 @@ Hi 👋, I'm
       width="36"
       height="36"
       alt="Hardhat"
-    />
-  </a>
-  <a href="https://ethers.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg"
-      width="36"
-      height="36"
-      alt="Ethers"
-    />
-  </a>
-  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg"
-      width="36"
-      height="36"
-      alt="Truffle"
-    />
-  </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
-      width="36"
-      height="36"
-      alt="Ethereum"
-    /></a>
-  <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg"
-      width="36" height="36"
-      alt="Alchemy"
     />
   </a>
 </div>
