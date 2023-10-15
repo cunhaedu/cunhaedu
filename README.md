@@ -31,7 +31,7 @@ Hi 👋, I'm
 
 <a href="https://github.com/cunhaedu" align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell,html,css&layout=compact&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhaedu&hide=shell,html,css,scss&layout=compact&langs_count=6"
     alt="Top Languages"
   />
 </a>
