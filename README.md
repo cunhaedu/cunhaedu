@@ -1,7 +1,7 @@
 Hi 👋, I'm
 # Eduardo Assunção
 
-**Backend Developer at** [eKaizen](https://ekaizen.digital/).
+**Ionic Developer at** [LinkedRH](https://joinrh.com.br/).
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm currently learning [Go](https://go.dev/), [AWS](aws.amazon.com/) and system design
@@ -48,25 +48,25 @@ Hi 👋, I'm
       alt="Typescript"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      width="36"
-      height="36"
-      alt="Javascript"
-    />
-  </a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
-      width="36"
-      height="36"
-      alt="Elixir"
-    />
-  </a>
 
   <!--   Frontend-frameworks  -->
-  
+
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+      width="36"
+      height="36"
+      alt="Angular"
+    />
+  </a>
+  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"
+      width="36"
+      height="36"
+      alt="Ionic"
+    />
+  </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
@@ -158,14 +158,6 @@ Hi 👋, I'm
       width="36"
       height="36"
       alt="Solidity"
-    />
-  </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg"
-      width="36"
-      height="36"
-      alt="Hardhat"
     />
   </a>
 </div>
